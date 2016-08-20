@@ -1,0 +1,11 @@
+Fitting Cole-Cole models for vegoil data
+nmdl=1
+nfrq=40
+irho   lrho  urho
+5.000000e+00 1.000000e+00 1.000000e+03
+im   lm  um
+1.000000e-01 1.000000e-05 1.000000e+00
+itau   ltau  utau
+-4.000000e+00 -5.000000e+00 5.000000e+00
+ic   lc  uc
+1.000000e-01 0.000000e+00 1.000000e+00

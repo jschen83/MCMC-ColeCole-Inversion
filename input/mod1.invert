@@ -1,0 +1,11 @@
+Fitting Cole-Cole models for vegoil data
+1 !number of Cole-Cole models
+40 !number of frequencies used for fitting
+electrcial resistivity starting model 
+5   1   1000 
+m constant starting model
+0.1    1e-5    1 
+Time constant starting models in logarithm scale
+-4    -5    5 
+c constant starting models
+0.1   0   1.0 
